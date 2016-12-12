@@ -46,5 +46,13 @@ eg_settings_custom_meta_style:
   - ""
 slide_template:
   - ""
+eg-test:
+  - ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+<h4 style="text-align: left; color:rgb(35, 178, 198);text-transform:uppercase; width:auto; line-height:-0.5em; border-bottom: 1px solid grey"><strong>DIY EEG Sensor</strong></h4><br>
+<h6 style="line-height:-0.5em">Experience level required: | 30 minutes</h6><br>
+Activity Type: Hardware Modification<br>
+Maker of Content:<br>
+Length: <br>
+Link:<p style="text-align: left;">https://github.com/neuralcubes/musephero</p><br.
+Topics: Method for them to provide feedback?<br>
