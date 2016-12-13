@@ -49,12 +49,20 @@ slide_template:
 eg-test:
   - ""
 ---
-More resources	 Teacher notes<br>
-Short link	https://hourofcode.com/star-wars<br>
-Educator experience	Beginner<br>
-Student experience	Beginner<br>
-Classroom technology	All modern browsers, Android tablet, iPad, Android phone, iPhone<br>
-Topics	Computer Science only<br>
-Activity type	Self-led tutorial<br>
-Length	One hour with follow-on<br>
-Languages	English, Arabic, Bulgarian, Chinese, Croatian, Danish, Dutch, Finnish, French, German, Greek, Icelandic, Indonesian, Italian, Japanese, Korean, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian and 19 more<br>
+<h4 style="text-align: left; color:rgb(35, 178, 198);text-transform:uppercase;margin-top: 0;margin-bottom: -0.2em">
+TITLE GOES HERE</h4><br>
+
+<h6 style="margin-top: -1.4em;margin-bottom:-0.8em;color:grey;">
+LEVEL GOES HERE | ALLOTED TIME GOES HERE</h6><br>
+
+<p style="font-family:'arial'; margin-top:0.3em;border-bottom:1px solid #c4c4c4;">
+<strong>Activity Type:</strong> TYPE OF ACTIVITY GOES HERE<br></p>
+
+<p style="font-family:'arial'; margin-top:0.2em;border-bottom:1px solid #c4c4c4;">
+<strong>Maker of Content:</strong> MAKER GOES HERE<br></p>
+
+<p style="font-family:'arial'; margin-top:0.2em;border-bottom:1px solid #c4c4c4;">
+<strong>Link</strong>:<a href="COMPLETE LINK GOES HERE" target="blank"> <span style="color:blue;text-decoration:underline;">LINK TEXT GOES HERE</span></a><br></p>
+
+<p style="font-family:'arial'; margin-top:0.2em;border-bottom:1px solid #c4c4c4;">
+<strong>Topics:</strong> TOPICS COVERED GO HERE<br></p>
