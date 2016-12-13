@@ -62,7 +62,7 @@ LEVEL GOES HERE | ALLOTED TIME GOES HERE</h6><br>
 <strong>Maker of Content:</strong> MAKER GOES HERE<br></p>
 
 <p style="font-family:'arial'; margin-top:0.2em;border-bottom:1px solid #c4c4c4;">
-<strong>Link</strong>:<a href="COMPLETE LINK GOES HERE" target="blank"> <span style="color:blue;text-decoration:underline;">LINK TEXT GOES HERE</span></a><br></p>
+<strong>Link</strong>:<a href="COMPLETE LINK GOES HERE" target="blank"> <span style="color:blue;text-decoration:underline;">click here</span></a><br></p>
 
 <p style="font-family:'arial'; margin-top:0.2em;border-bottom:1px solid #c4c4c4;">
 <strong>Topics:</strong> TOPICS COVERED GO HERE<br></p>
