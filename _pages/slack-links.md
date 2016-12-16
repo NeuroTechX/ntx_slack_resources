@@ -52,4 +52,4 @@ eg-test:
  	<li>Text to delete 1</li>
  	<li>Text to delete 2</li>
  	<li>text 3</li>
-</ul>
+</ul><ul><li><https://neurotestx.slack.com/messages/thechan/team/amine/></li></ul>
