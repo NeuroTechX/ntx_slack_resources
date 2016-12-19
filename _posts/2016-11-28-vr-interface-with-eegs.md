@@ -44,4 +44,8 @@ eg_settings_custom_meta_setting:
   - ""
 eg_settings_custom_meta_style:
   - ""
+slide_template:
+  - ""
+eg-test:
+  - ""
 ---
