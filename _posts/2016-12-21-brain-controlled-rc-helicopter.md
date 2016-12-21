@@ -55,5 +55,5 @@ eg-test:
 &nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Instructables</p>
-<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>: <a href="http://www.instructables.com/id/Brain-Controlled-RC-Helicopter/">Click Here</a></p>
+<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="http://www.instructables.com/id/Brain-Controlled-RC-Helicopter/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Topics:</strong> Calibration</p>
