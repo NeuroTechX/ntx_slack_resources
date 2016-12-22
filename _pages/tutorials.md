@@ -5,7 +5,7 @@ author: ntx_admin
 post_date: 2016-11-01 10:29:27
 post_excerpt: ""
 layout: page
-permalink: http://www.neurotechedu.com/tutorials/
+permalink: http://www.neurotechedu.com/
 published: true
 slide_template:
   - ""
