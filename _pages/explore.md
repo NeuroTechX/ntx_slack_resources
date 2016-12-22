@@ -1,51 +1,53 @@
 ---
 ID: 110
-post_title: Home
+post_title: About
 author: ntx_admin
 post_date: 2016-11-01 10:29:14
 post_excerpt: ""
 layout: page
-permalink: http://www.neurotechedu.com/
+permalink: http://www.neurotechedu.com/explore/
 published: true
 slide_template:
-  - 'a:2:{i:0;s:28:"a:2:{i:0;s:0:"";i:1;s:0:"";}";i:1;s:28:"a:2:{i:0;s:0:"";i:1;s:0:"";}";}'
-  - 'a:2:{i:0;s:28:"a:2:{i:0;s:0:"";i:1;s:0:"";}";i:1;s:28:"a:2:{i:0;s:0:"";i:1;s:0:"";}";}'
+  - ""
+  - ""
 eg_sources_html5_mp4:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_html5_ogv:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_html5_webm:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_youtube:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_vimeo:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_wistia:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_image:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_iframe:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_sources_soundcloud:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 's:55:"a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}";'
 eg_vimeo_ratio:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
+  - "0"
 eg_youtube_ratio:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
+  - "0"
 eg_wistia_ratio:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
+  - "0"
 eg_html5_ratio:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
+  - "0"
 eg_soundcloud_ratio:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
+  - "0"
 eg_settings_custom_meta_skin:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 'a:1:{i:0;s:1:"1";}'
 eg_settings_custom_meta_element:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - ""
 eg_settings_custom_meta_setting:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - ""
 eg_settings_custom_meta_style:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - ""
+eg-test:
+  - ""
 ---
 [cs_content][cs_section bg_image="http://www.neurotechedu.com/wp-content/uploads/2016/11/2091-connections-2560x1600-abstract-wallpaper.jpg" parallax="false" style="margin: 0px;padding: 0px;"][cs_row inner_container="true" marginless_columns="true" style="margin: 0px auto;padding: 0px;"][cs_column bg_color="hsl(187, 70%, 46%)" fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/3" style="padding: 0px;"]&nbsp;[/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="2/3" style="padding: 0px;"]&nbsp;[/cs_column][/cs_row][/cs_section][cs_section id="coverimage" bg_image="http://www.neurotechedu.com/wp-content/uploads/2016/11/2091-connections-2560x1600-abstract-wallpaper.jpg" bg_color="hsl(187, 70%, 46%)" parallax="false" style="margin: -90px -90px 0px;padding: 90px 0px;border-bottom: 1px solid black;"][cs_row inner_container="true" marginless_columns="true" class="cs-ta-center" style="margin: 0px auto;padding: 0px;"][cs_column fade="true" fade_animation="in-from-bottom" fade_animation_offset="25px" fade_duration="1000" type="1/1" class="cs-ta-center" style="padding: 0px;"][x_blockquote cite="" type="center" id="circlequote"]Online Education Portal for 
 Neurotechnology.
