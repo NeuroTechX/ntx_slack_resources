@@ -55,4 +55,4 @@ eg-test:
 &nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Hackaday</p>
-<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="http://www.instructables.com/id/Mind-Controlled-Fan-for-ALS-or-Paralyzed-patients/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
+<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="https://hackaday.io/project/365-eeg-controlled-music-with-the-rpi" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
