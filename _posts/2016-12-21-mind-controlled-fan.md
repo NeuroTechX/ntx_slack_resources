@@ -55,5 +55,4 @@ eg-test:
 &nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Instructables</p>
-<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="https://github.com/neuralcubes/musephero" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
-<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Topics:</strong> Calibration</p>
+<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="http://www.instructables.com/id/Mind-Controlled-Fan-for-ALS-or-Paralyzed-patients/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
