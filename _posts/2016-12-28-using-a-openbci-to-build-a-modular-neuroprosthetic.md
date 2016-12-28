@@ -1,8 +1,6 @@
 ---
 ID: 1191
-post_title: >
-  Using a OpenBCI to build a modular
-  Neuroprosthetic
+post_title: Build a Modular Neuroprosthetic
 author: sydney
 post_date: 2016-12-28 11:57:16
 post_excerpt: ""
@@ -51,9 +49,9 @@ eg_settings_custom_meta_style:
 eg-test:
   - ""
 ---
-<h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">Using a OpenBCI to build a modular Neuroprosthetic</h4>
+<h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">build a modular Neuroprosthetic with openbci</h4>
 &nbsp;
-<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Advances</h6>
+<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">AdvanceD</h6>
 &nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Instructables</p>
