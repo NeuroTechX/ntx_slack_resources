@@ -54,5 +54,5 @@ eg-test:
 <h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Intermediate</h6>
 &nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
-<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Backyard Brains</p>
+<p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Backyard Brains Experiments</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="https://backyardbrains.com/experiments/p300" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
