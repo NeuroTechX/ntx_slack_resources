@@ -48,6 +48,7 @@ eg_settings_custom_meta_style:
 eg-test:
   - ""
 ---
+<div id="resources">
 <ul>
  	<li><a href="https://www.youtube.com/watch?v=agV1B2l-QLw">OpenBCI UltraCortex with GUI</a></li>
 </ul>[/x_accordion_item][x_accordion_item title="Books" open="false"]<ul>
@@ -76,3 +77,4 @@ eg-test:
  	<li>Neurosky</li>
  	<li>Emotiv</li>
 </ul>
+</div>
