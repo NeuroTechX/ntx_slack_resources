@@ -7,6 +7,46 @@ post_excerpt: ""
 layout: page
 permalink: http://www.neurotechedu.com/resources/
 published: true
+slide_template:
+  - ""
+eg_sources_html5_mp4:
+  - ""
+eg_sources_html5_ogv:
+  - ""
+eg_sources_html5_webm:
+  - ""
+eg_sources_youtube:
+  - ""
+eg_sources_vimeo:
+  - ""
+eg_sources_wistia:
+  - ""
+eg_sources_image:
+  - ""
+eg_sources_iframe:
+  - ""
+eg_sources_soundcloud:
+  - ""
+eg_vimeo_ratio:
+  - "0"
+eg_youtube_ratio:
+  - "0"
+eg_wistia_ratio:
+  - "0"
+eg_html5_ratio:
+  - "0"
+eg_soundcloud_ratio:
+  - "0"
+eg_settings_custom_meta_skin:
+  - ""
+eg_settings_custom_meta_element:
+  - ""
+eg_settings_custom_meta_setting:
+  - ""
+eg_settings_custom_meta_style:
+  - ""
+eg-test:
+  - ""
 ---
 [cs_content][cs_section parallax="false" style="margin: 0px;padding: 45px 0px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][x_accordion][x_accordion_item title="Videos" open="true"]<ul>
  	<li><a href="https://www.youtube.com/watch?v=agV1B2l-QLw">OpenBCI UltraCortex with GUI</a></li>
