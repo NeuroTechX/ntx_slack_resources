@@ -48,7 +48,7 @@ eg_settings_custom_meta_style:
 eg-test:
   - ""
 ---
-[cs_content][cs_section parallax="false" style="margin: 0px;padding: 45px 0px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][x_accordion][x_accordion_item title="Videos" open="true"]<ul>
+<ul>
  	<li><a href="https://www.youtube.com/watch?v=agV1B2l-QLw">OpenBCI UltraCortex with GUI</a></li>
 </ul>[/x_accordion_item][x_accordion_item title="Books" open="false"]<ul>
  	<li><a href="https://mitpress.mit.edu/books/analyzing-neural-time-series-data">Analyzing Neural Time Series Data</a></li>
@@ -75,4 +75,4 @@ eg-test:
  	<li>Muse</li>
  	<li>Neurosky</li>
  	<li>Emotiv</li>
-</ul>[/x_accordion_item][/x_accordion][/cs_column][/cs_row][/cs_section][/cs_content]
+</ul>
