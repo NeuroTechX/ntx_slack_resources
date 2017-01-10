@@ -53,8 +53,6 @@ eg-test:
 ---
 <h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">Building a Personal identification system using openBci</h4>
 &nbsp;
-<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Advanced</h6>
-&nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> Research Paper</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Publication</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="https://www.researchgate.net/publication/303993797_Personal_Identification_Number_Application_Using_Adaptive_P300_Brain-Computer_Interface" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
