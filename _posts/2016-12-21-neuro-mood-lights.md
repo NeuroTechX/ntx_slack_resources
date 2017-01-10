@@ -51,8 +51,6 @@ eg-test:
 ---
 <h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">neuro Mood Lights</h4>
 &nbsp;
-<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Beginner | 30 minutes</h6>
-&nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Instructables</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="http://www.instructables.com/id/EEG-Neuro-Mood-Light/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
