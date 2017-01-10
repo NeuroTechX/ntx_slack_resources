@@ -51,8 +51,6 @@ eg-test:
 ---
 <h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">EEG Beanie</h4>
 &nbsp;
-<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Intermediate</h6>
-&nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> DIY Project</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Makezine</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="http://makezine.com/projects/make-43/mind-reading-beanie/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
