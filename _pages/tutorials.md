@@ -8,45 +8,45 @@ layout: page
 permalink: http://www.neurotechedu.com/
 published: true
 slide_template:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_sources_html5_mp4:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_html5_ogv:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_html5_webm:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_youtube:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_vimeo:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_wistia:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_image:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_iframe:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_sources_soundcloud:
-  - 's:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;'
+  - 'a:1:{i:0;s:45:"s:27:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;";}'
 eg_vimeo_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_youtube_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_wistia_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_html5_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_soundcloud_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_settings_custom_meta_skin:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_element:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_setting:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_style:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg-test:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
 [cs_content][cs_section bg_image="http://www.neurotechedu.com/wp-content/uploads/2017/01/croppedbanner-1.jpg" bg_color="hsl(205, 100%, 50%)" parallax="false" class="cs-hide-xl cs-hide-lg cs-hide-md cs-ta-center" style="margin: 0px;padding: 0px;height:220px;background-position: right top;"][cs_row inner_container="true" marginless_columns="true" bg_color="hsla(0, 0%, 100%, 0)" style="margin: 0px auto;padding: 0px;"][cs_column bg_color="hsla(205, 100%, 50%, 0)" fade="false" fade_animation="in-from-bottom" fade_animation_offset="45px" fade_duration="750" type="1/1" class="cs-ta-center" style="padding: 40px 5px 15px 0px;"]&nbsp;[/cs_column][/cs_row][/cs_section][cs_section bg_color="hsl(205, 100%, 50%)" parallax="true" class="cs-hide-xl cs-hide-lg cs-hide-md cs-ta-center" style="margin: 0px 0px 0px 0;padding: 20px 20px 30px;height:260px;background-position: right top;"][cs_row inner_container="true" marginless_columns="true" bg_color="hsla(0, 0%, 100%, 0)" style="margin: 0px auto;padding: 0px;"][cs_column bg_color="hsla(205, 100%, 50%, 0)" fade="false" fade_animation="in-from-bottom" fade_animation_offset="45px" fade_duration="750" type="1/1" class="cs-ta-center" style="padding: 0px;"][cs_text class="cs-ta-center"]<h3><span style="color: #ffffff; font-family: 'Open Sans'; font-weight: 100;">Online Education Portal for
 Neurotechnology</span></h3>[/cs_text][x_button type="flat" size="small" block="false" circle="false" icon_only="false" href="#starterdiv" title="" target="blank" info="none" info_place="top" info_trigger="hover" info_content="" style="margin-top:10px;"][x_icon type="arrow-right" class="mvn mln mrs"]New to Neurotech?[/x_button][/cs_column][/cs_row][/cs_section][cs_section bg_color="hsl(205, 100%, 50%)" parallax="false" bg_pattern="http://www.neurotechedu.com/wp-content/uploads/2017/01/croppedbanner-1.jpg" class="cs-hide-sm cs-hide-xs cs-ta-center" style="margin: 0px 0px 0px -30%;padding: 0px;height:350px;background-position: right top;"][cs_row inner_container="true" marginless_columns="true" bg_color="hsla(0, 0%, 0%, 0)" style="margin: 0px auto;padding: 0px;"][cs_column bg_color="hsl(205, 100%, 50%)" fade="false" fade_animation="in-from-bottom" fade_animation_offset="45px" fade_duration="750" type="2/3" class="cs-ta-center" style="padding: 50px 10px 20px 250px;height:350px;-ms-transform: skewX(-20deg);/* IE 9 */    -webkit-transform: skewX(-20deg);/* Safari */    transform: skewX(-20deg);"][cs_text class="cs-ta-center" style="-ms-transform: skewX(20deg);/* IE 9 */    -webkit-transform: skewX(20deg);/* Safari */    transform: skewX(20deg);"]<h3><span style="color: #ffffff; font-family: 'Open Sans'; font-weight: 100;">Online Education Portal for
