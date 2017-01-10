@@ -8,45 +8,45 @@ layout: page
 permalink: http://www.neurotechedu.com/about/
 published: true
 slide_template:
-  - ""
-  - ""
+  - 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
+  - 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
 eg_sources_html5_mp4:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_html5_ogv:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_html5_webm:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_youtube:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_vimeo:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_wistia:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_image:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_iframe:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_sources_soundcloud:
-  - 's:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;'
+  - 'a:1:{i:0;s:73:"s:55:&quot;a:1:{i:0;s:17:&quot;a:1:{i:0;s:0:&quot;&quot;;}&quot;;}&quot;;";}'
 eg_vimeo_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_youtube_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_wistia_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_html5_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_soundcloud_ratio:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 eg_settings_custom_meta_skin:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_element:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_setting:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg_settings_custom_meta_style:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 eg-test:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
 [cs_content][cs_section bg_image="http://www.neurotechedu.com/wp-content/uploads/2017/01/aboutbanner.jpg" bg_color="hsl(205, 100%, 50%)" parallax="false" style="margin: 0px;padding: 100px 0px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/3" class="cs-ta-center" style="padding: 0px;"][x_image type="none" src="http://www.neurotechedu.com/wp-content/uploads/2016/12/ntx_blue_1500.png" alt="" link="false" href="#" title="" target="" info="none" info_place="top" info_trigger="hover" info_content="" style="max-width:220px;"][/cs_column][cs_column bg_color="hsl(207, 100%, 50%)" fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="2/3" style="padding: 30px;"][cs_text class="cs-ta-left"]<span style="color:white; font-size:1.2em; font-weight:100;"> <strong>NeurotechEDU</strong> is part of NeurotechX, an international network of  hackers, enthusiasts, researchers and experts who together to drive innovation and foster collaboration at local and international scales. Our core mission is to build a strong global neurotech community by providing key resources, learning opportunities, and by being leaders in local and worldwide technological initiatives. We believe neurotechnology is key to better understanding and to improving who we are. </span>[/cs_text][/cs_column][/cs_row][/cs_section][cs_section parallax="false" style="margin: 0px;padding: 100px 0px 120px;"][cs_row inner_container="true" marginless_columns="true" style="margin: 0px auto;padding: 0px 5%;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="2/3" style="padding: 0px 0px 60px;"][x_custom_headline level="h2" looks_like="h3" accent="true" style="color: hsl(207, 100%, 50%);"]Custom Headline[/x_custom_headline][cs_text]Lorem ipsum dolor sit amet, an officiis definitiones mel. Ei reque aliquando usu, sit te veri liberavisse, natum scribentur interpretaris eos no. Quot altera alienum vim at, nec at sonet audiam sapientem. Oratio virtute definitiones eu mea, iisque gubergren disputando vel in.[/cs_text][/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/3" class="cs-ta-center" style="padding: 0px;"][x_image type="none" src="http://www.neurotechedu.com/wp-content/uploads/2016/12/depleting-chart.png" alt="" link="false" href="#" title="" target="" info="none" info_place="top" info_trigger="hover" info_content="" style="max-height:200px;"][/cs_column][/cs_row][cs_row inner_container="true" marginless_columns="true" style="margin: 0px auto;padding: 100px 5% 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/3" class="cs-ta-center" style="padding: 0px;"][x_image type="none" src="http://www.neurotechedu.com/wp-content/uploads/2016/12/person-explaining-strategy-on-a-board-with-a-sketch.png" alt="" link="false" href="#" title="" target="" info="none" info_place="top" info_trigger="hover" info_content="" style="max-width:200px;"][/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="2/3" class="cs-ta-right" style="padding: 0px;"][x_custom_headline level="h2" looks_like="h3" accent="true" style="color: hsl(207, 100%, 50%);"]Custom Headline[/x_custom_headline][cs_text]Lorem ipsum dolor sit amet, an officiis definitiones mel. Ei reque aliquando usu, sit te veri liberavisse, natum scribentur interpretaris eos no. Quot altera alienum vim at, nec at sonet audiam sapientem. Oratio virtute definitiones eu mea, iisque gubergren disputando vel in.[/cs_text][/cs_column][/cs_row][/cs_section][cs_section bg_color="hsl(205, 100%, 50%)" parallax="false" style="margin: 0px;padding: 65px 0px 100px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" class="cs-ta-center" style="padding: 0px;"][cs_text]<h2><span style="font-family:'Open Sans'; font-weight:100;color:white;">Questions/Feedback?</span></h2>[/cs_text][cs_text style="margin-top:0px;margin-bottom:30px;"]We are community-based and driven effort.<br>Feedback helps us present better content and improve our organization.[/cs_text][x_button type="flat" size="jumbo" block="false" circle="false" icon_only="false" href="#" title="" target="" info="none" info_place="top" info_trigger="hover" info_content=""]Get In touch![/x_button][/cs_column][/cs_row][/cs_section][/cs_content]
