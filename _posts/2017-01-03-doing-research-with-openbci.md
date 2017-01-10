@@ -51,8 +51,6 @@ eg-test:
 ---
 <h4 style="text-align: left; color: #23b2c6; text-transform: uppercase; margin-top: 0; margin-bottom: -0.2em;">Doing research with openbci</h4>
 &nbsp;
-<h6 style="margin-top: -1.4em; margin-bottom: -0.8em; color: grey;">Beginner</h6>
-&nbsp;
 <p style="font-family: 'arial'; margin-top: 0.3em; border-bottom: 1px solid #c4c4c4;"><strong>Activity Type:</strong> Lesson</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Source:</strong> Personal Blog</p>
 <p style="font-family: 'arial'; margin-top: 0.2em; border-bottom: 1px solid #c4c4c4;"><strong>Link</strong>:<a href="https://irenevigueguix.wordpress.com/2016/06/28/research-with-openbci/" target="blank"> <span style="color: blue; text-decoration: underline;">Click Here</span></a></p>
