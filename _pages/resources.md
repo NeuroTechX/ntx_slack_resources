@@ -46,5 +46,6 @@ eg_settings_custom_meta_setting:
 eg_settings_custom_meta_style:
   - ""
 eg-test:
-  - 's:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 ---
+[github_readme class="github-resources"]
