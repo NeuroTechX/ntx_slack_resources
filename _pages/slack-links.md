@@ -48,4 +48,5 @@ eg_settings_custom_meta_style:
 eg-test:
   - ""
 ---
-<ul><li><https://arstechnica.com/information-technology/2017/02/google-brain-super-resolution-zoom-enhance/></li><li><http://blog.kaggle.com/2017/02/06/seizure-prediction-competition-first-place-winners-interview-team-not-so-random-anymore-andriy-alexandre-feng-gilberto/></li><li>Hey <@U42KKF0G4> Welcome on board. Did you know about NeuroTechBCN? You can join the meetup: <https://www.meetup.com/NeuroTechBCN/></li></ul>
+<ul><li><https://arstechnica.com/information-technology/2017/02/google-brain-super-resolution-zoom-enhance/></li><li><http://blog.kaggle.com/2017/02/06/seizure-prediction-competition-first-place-winners-interview-team-not-so-random-anymore-andriy-alexandre-feng-gilberto/></li><li>Hey <@U42KKF0G4> Welcome on board. Did you know about NeuroTechBCN? You can join the meetup: <https://www.meetup.com/NeuroTechBCN/></li></ul><ul><li><http://www.openmhealth.org/documentation/#/overview/get-started></li><li><http://www.openmhealth.org/documentation/#/overview/get-started></li><li>You folks seen this? <https://medicalxpress.com/news/2017-02-advanced-eeg-analysis-reveals-complex.html>
+Can this be applied programmatically?</li></ul>
