@@ -53,4 +53,4 @@ Can this be applied programmatically?</li></ul><ul><li><https://beepboophq.com/0
 The first national competition of its kind, prizes awarded at the AGE-WELLHACKING HEALTH National Competition will total $75,000 in prizes.
 
 <https://www.eventbrite.ca/e/age-well-hacking-health-national-ideathon-montreal-tickets-30076280966></li></ul><ul><li>Posted by <@U39KC1V9Q> in <#C0J8Z4KFD|_announcements_>  (moved here)
-"Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"</li></ul>
+"Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"</li></ul><ul><li><https://interaxon.bamboohr.com/jobs/view.php?id=24></li></ul>
