@@ -53,4 +53,5 @@ Can this be applied programmatically?</li></ul><ul><li><https://beepboophq.com/0
 The first national competition of its kind, prizes awarded at the AGE-WELLHACKING HEALTH National Competition will total $75,000 in prizes.
 
 <https://www.eventbrite.ca/e/age-well-hacking-health-national-ideathon-montreal-tickets-30076280966></li></ul><ul><li>Posted by <@U39KC1V9Q> in <#C0J8Z4KFD|_announcements_>  (moved here)
-"Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"</li></ul><ul><li><https://interaxon.bamboohr.com/jobs/view.php?id=24></li></ul>
+"Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"</li></ul><ul><li><https://interaxon.bamboohr.com/jobs/view.php?id=24></li></ul><ul><li><@U302S61V5> we are running the bot on a managed server, server outages are uncommon and handled in seconds thanks to our partners BeepboopHQ . Archiving is currently active and stored to <https://github.com/NeuroTechX/ntx_slack_archive/tree/master> 
+For now, some messages are being ignored due to some bad sync with Github. The dev version of the bot I'm working on fixes this issue and will be deployed this week.</li></ul>
