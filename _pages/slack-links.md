@@ -60,4 +60,5 @@ For those of you who arent familiar, Mindset is a pair of overear headphones th
 The campaign goes live tomorrow at 8am EST. Be the first to grab one of the early birds, and get 46% off! :smile:</li></ul><ul><li>MINDSETS KICKSTARTER IS LIVE!!! :smile:
 Heres the link you can use to back the project: <https://www.kickstarter.com/projects/mindset/headphones>
 Feel free to give me a shout at 438 838 1477 if you need help, or check out this video explaining how to back kickstarter projects <http://bit.ly/2msDIdZ>.
-Thank you so much for your help!</li></ul>
+Thank you so much for your help!</li></ul><ul><li>We're proud to partner w/ #OReillyAI in New York, NY June 26-29. Save 20% w/code UGNTMTL
+<http://oreil.ly/2l94JOD></li></ul>
