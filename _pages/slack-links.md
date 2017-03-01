@@ -61,4 +61,4 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 Heres the link you can use to back the project: <https://www.kickstarter.com/projects/mindset/headphones>
 Feel free to give me a shout at 438 838 1477 if you need help, or check out this video explaining how to back kickstarter projects <http://bit.ly/2msDIdZ>.
 Thank you so much for your help!</li></ul><ul><li>We're proud to partner w/ #OReillyAI in New York, NY June 26-29. Save 20% w/code UGNTMTL
-<http://oreil.ly/2l94JOD></li></ul>
+<http://oreil.ly/2l94JOD></li></ul><ul><li><http://journal.frontiersin.org/article/10.3389/fnins.2017.00109/abstract></li></ul>
